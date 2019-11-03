@@ -1,0 +1,3 @@
+function firstFn() {
+  alert('test');
+}
